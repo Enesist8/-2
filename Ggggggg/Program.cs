@@ -1,4 +1,4 @@
-﻿namespace Prac_2
+﻿namespace Practicheskaya_2
 {
     internal class Program
     {
